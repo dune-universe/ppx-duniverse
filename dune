@@ -1,3 +1,5 @@
 (alias
  (name default)
- (deps (package ppx-duniverse)))
+ (deps
+  (package ppx_jane)
+  (package ppx_cstruct)))
