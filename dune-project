@@ -17,14 +17,12 @@
   ppx_jane
   ppx_cstruct
   bisect_ppx
-  bitstring
-  gen_js_api
   graphql_ppx
   js_of_ocaml
   landmarks
   learn-ocaml
   loga
-  lwt.ppx
+  lwt_ppx
   mdx
   metapp
   metaquot
@@ -41,7 +39,6 @@
   ppx_deriving
   ppx_distr_guards
   ppx_fast_pipe
-  ppxfind
   ppx_gen_rec
   ppx_import
   ppx_monoid
