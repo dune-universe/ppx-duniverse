@@ -17,37 +17,38 @@
   ppx_jane
   ppx_cstruct
   bisect_ppx
-  graphql_ppx
-  js_of_ocaml
+;  graphql_ppx
+  js_of_ocaml-ppx
   landmarks
-  learn-ocaml
-  loga
+;  learn-ocaml
+;  loga
   lwt_ppx
   mdx
   metapp
   metaquot
   obus
-  ocaml-monadic
-  pattern
-  pgocaml
+;  ocaml-monadic
+;  pattern
+;  pgocaml
   pla
-  ppx_bigarray
+;  ppx_bigarray
   ppx_blob
   ppx_compose
   ppx_cstubs
   ppx_defer
   ppx_deriving
-  ppx_distr_guards
-  ppx_fast_pipe
-  ppx_gen_rec
-  ppx_import
-  ppx_monoid
-  ppx_relit
-  ppx_test
-  ppx_tyre
-  ppxx
-  sedlex
-  tyxml
-  zarith-ppx
+;  ppx_distr_guards
+;  ppx_fast_pipe
+;  ppx_gen_rec
+;  ppx_import
+;  ppx_monoid
+;  ppx_relit
+;  ppx_test
+;  ppx_tyre
+;  ppxx
+;  sedlex
+;  tyxml
+;  zarith-ppx
+
 )
 )
